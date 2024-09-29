@@ -1,0 +1,9 @@
+{
+  "name": "advanced-typescript",
+  "version": "1.0.0",
+  "author": "pierluigigiancola",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.4.5"
+  }
+}
